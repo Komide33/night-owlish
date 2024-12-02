@@ -96,11 +96,10 @@
 	color: #ffffff;
   background-color: #d3423e;
 }  
-.ace_heading,
-.ace_markup.ace_heading,
-.ace_string {
-	color: #addb67;
-}  
+.md-header, .ace_heading, .ace_markup.ace_heading {
+    color: #FFD700; /* Gelb für Überschriften */
+    font-weight: bold;
+}
 .ace_string.ace_regexp {
 	color: #5ca7e4;
 }  
