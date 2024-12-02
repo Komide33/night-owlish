@@ -1,4 +1,4 @@
-/* rs-theme-name: Night Owl */ 
+/* rs-theme-name: Night Owl_komide */ 
 /* rs-theme-is-dark: TRUE */ 
 /* A port of Sarah Drasner's Night Owl VS Code theme (UUID: EB0EC8F4-467B-46D0-8AE9-88B44F4D73B4) */  
 .ace_gutter {
@@ -73,6 +73,10 @@
 .ace_support.ace_function {
 	color: #82AAFF;
 }  
+md-header {
+  color: #458B74;  
+  font-weight: bold; 
+}
 .ace_support.ace_constant {
 	color: #7fdbca;
 }  
